@@ -91,6 +91,13 @@
 			<artifactId>jakarta.el</artifactId>
 			<version>4.0.2</version> <!-- Nécessaire pour Hibernate Validator -->
 		</dependency>
+		<dependency>
+			<groupId>net.sourceforge.tess4j</groupId>
+			<artifactId>tess4j</artifactId>
+			<version>5.4.0</version>
+		</dependency>
+
+
 	</dependencies>
 
 	<build>
